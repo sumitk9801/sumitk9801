@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitk9801" alt="sumitk9801" /></a> </p>
 
-- 🔭 I’m currently working on [Food-Delivery-project](https://github.com/sumitk9801/Food-Delivery-System)
+- 🔭 I’m currently working on [Event_Registration_System Project](https://github.com/sumitk9801/CodeAlpha_Event_Registration_System)
 
 - 🌱 I’m currently learning **React,Nodejs,Express,MongoDB**
 
