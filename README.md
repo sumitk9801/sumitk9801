@@ -44,8 +44,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="45"/>
 </div>
 
-
-### Tools  
 ### 🔧 Tools & Platforms
 <div align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45" />
