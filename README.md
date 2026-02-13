@@ -21,7 +21,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="45"/>
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="45"/>
 </div>
 
